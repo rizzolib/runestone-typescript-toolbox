@@ -186,9 +186,3 @@ The script will output logs at various stages:
 - The script is configured to work with the Bitcoin testnet.
 - Ensure that you have testnet coins available in the provided private key.
 - Adjust the fee and other parameters as needed.
-
----
-## Contact Info
-If you have technical issues and development inquiries, please contact me.
-
-- X: https://x.com/james980114/
